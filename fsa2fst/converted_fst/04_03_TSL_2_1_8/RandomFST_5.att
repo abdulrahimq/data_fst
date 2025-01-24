@@ -1,0 +1,11 @@
+0	0	d	c
+0	2	a	d
+1	1	b	0
+1	1	c	dc
+1	1	d	dd
+1	2	a	aa
+2	1	b	0
+2	1	c	b
+2	2	a	b
+2	2	d	b
+1

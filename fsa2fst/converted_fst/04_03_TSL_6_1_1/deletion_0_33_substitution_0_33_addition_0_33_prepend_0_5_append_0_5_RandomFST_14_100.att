@@ -1,0 +1,29 @@
+0	0	b	bb
+0	0	c	0
+0	0	d	db
+0	1	a	ab
+1	0	c	0
+1	1	a	aa
+1	1	d	db
+1	4	b	0
+2	0	c	0
+2	1	a	0
+2	2	d	0
+2	5	b	0
+3	0	c	cc
+3	1	a	aa
+3	3	d	da
+4	0	b	bb
+4	0	c	0
+4	2	a	aa
+4	4	d	dd
+5	0	b	0
+5	0	c	0
+5	3	a	aa
+5	5	d	dd
+0
+1
+2
+3
+4
+5

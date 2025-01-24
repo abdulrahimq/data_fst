@@ -1,0 +1,23 @@
+0	0	b	0
+0	0	c	0
+0	0	d	d
+0	1	a	0
+1	0	b	b
+1	0	c	0
+1	1	d	dd
+1	3	a	0
+2	2	a	aa
+2	2	b	0
+2	2	c	cc
+2	2	d	dd
+3	2	a	a
+3	3	d	c
+3	4	b	b
+3	4	c	c
+4	3	a	a
+4	4	b	bc
+4	4	c	c
+4	4	d	a
+0
+1
+2

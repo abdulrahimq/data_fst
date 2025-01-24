@@ -1,0 +1,44 @@
+0	1	a	aa
+1	2	a	aa
+2	6	a	0
+3	3	b	bb
+3	3	c	cc
+3	3	d	db
+3	4	a	ab
+4	3	b	0
+4	3	c	cc
+4	3	d	db
+4	5	a	ac
+5	3	b	ba
+5	3	c	cc
+5	3	d	0
+5	6	a	0
+6	3	b	bd
+6	3	c	cd
+6	3	d	da
+6	8	a	ac
+7	7	a	aa
+7	7	b	0
+7	7	c	cc
+7	7	d	dd
+8	7	a	ad
+8	11	b	bb
+8	11	c	0
+8	11	d	da
+9	8	a	0
+9	11	b	bb
+9	11	c	0
+9	11	d	db
+10	9	a	aa
+10	11	b	bd
+10	11	c	cc
+10	11	d	0
+11	10	a	aa
+11	11	b	bd
+11	11	c	ca
+11	11	d	dc
+3
+4
+5
+6
+7

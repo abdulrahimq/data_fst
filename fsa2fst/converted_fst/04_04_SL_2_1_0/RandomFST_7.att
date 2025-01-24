@@ -1,0 +1,9 @@
+0	0	b	db
+0	0	c	dc
+0	0	d	a
+0	1	a	ca
+1	0	b	a
+1	0	c	b
+1	0	d	b
+0
+1

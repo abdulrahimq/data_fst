@@ -1,0 +1,19 @@
+0	0	b	ba
+0	0	c	0
+0	0	d	db
+0	1	a	aa
+1	0	b	0
+1	0	c	cc
+1	1	d	dd
+1	2	a	ac
+2	2	a	aa
+2	2	c	cc
+2	2	d	0
+2	3	b	bb
+3	3	a	ab
+3	3	b	bb
+3	3	c	ca
+3	3	d	dc
+0
+1
+2

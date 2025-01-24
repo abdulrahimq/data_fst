@@ -1,0 +1,144 @@
+0	0	c	cc
+0	0	d	0
+0	2	b	bb
+0	10	a	aa
+1	1	c	cd
+1	1	d	da
+1	7	b	bb
+1	9	a	0
+2	0	c	cc
+2	0	d	da
+2	3	b	bb
+2	16	a	0
+3	0	c	cb
+3	0	d	dc
+3	4	b	bc
+3	16	a	aa
+4	0	c	cb
+4	0	d	dd
+4	5	b	bb
+4	16	a	ad
+5	0	c	cc
+5	0	d	dd
+5	6	b	bb
+5	16	a	aa
+6	0	c	ca
+6	0	d	0
+6	7	b	bd
+6	16	a	ac
+7	1	c	cb
+7	1	d	0
+7	7	b	0
+7	15	a	0
+8	8	a	aa
+8	8	b	bc
+8	8	c	cc
+8	8	d	dd
+9	1	c	cc
+9	1	d	0
+9	9	a	0
+9	24	b	0
+10	0	c	0
+10	0	d	0
+10	11	a	0
+10	23	b	bc
+11	0	c	0
+11	0	d	dd
+11	12	a	aa
+11	23	b	0
+12	0	c	cc
+12	0	d	dd
+12	13	a	0
+12	23	b	bb
+13	0	c	0
+13	0	d	0
+13	14	a	ab
+13	23	b	0
+14	0	c	cd
+14	0	d	dd
+14	9	a	0
+14	23	b	0
+15	1	c	0
+15	1	d	0
+15	9	a	ac
+15	26	b	0
+16	0	c	0
+16	0	d	dd
+16	11	a	0
+16	25	b	0
+17	1	c	0
+17	1	d	0
+17	9	a	0
+17	28	b	bc
+18	0	c	0
+18	0	d	dd
+18	11	a	0
+18	27	b	ba
+19	1	c	cc
+19	1	d	dc
+19	9	a	0
+19	30	b	bd
+20	0	c	ca
+20	0	d	dd
+20	11	a	ac
+20	29	b	0
+21	1	c	cc
+21	1	d	db
+21	8	b	bb
+21	9	a	ac
+22	0	c	cb
+22	0	d	dd
+22	8	b	ba
+22	11	a	aa
+23	0	c	cc
+23	0	d	da
+23	3	b	bb
+23	18	a	aa
+24	1	c	cc
+24	1	d	dd
+24	7	b	bb
+24	17	a	ad
+25	0	c	cc
+25	0	d	0
+25	3	b	0
+25	20	a	ad
+26	1	c	cc
+26	1	d	0
+26	7	b	0
+26	19	a	0
+27	0	c	ca
+27	0	d	dc
+27	3	b	0
+27	22	a	aa
+28	1	c	cb
+28	1	d	0
+28	7	b	bd
+28	21	a	0
+29	0	c	cc
+29	0	d	0
+29	3	b	0
+29	8	a	aa
+30	1	c	0
+30	1	d	0
+30	7	b	bb
+30	8	a	aa
+0
+10
+11
+12
+13
+14
+16
+18
+2
+20
+22
+23
+25
+27
+29
+3
+4
+5
+6
+8

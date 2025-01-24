@@ -1,0 +1,48 @@
+0	0	b	cb
+0	0	c	ca
+0	0	d	0
+0	2	a	0
+1	1	a	da
+1	1	b	c
+1	1	c	dc
+1	1	d	bd
+2	1	c	b
+2	2	a	0
+2	2	d	d
+2	3	b	bb
+3	3	c	ca
+3	3	d	b
+3	4	a	aa
+3	8	b	cb
+4	1	c	cc
+4	4	a	ad
+4	4	d	a
+4	8	b	0
+5	1	c	cd
+5	4	a	0
+5	5	d	c
+5	9	b	b
+6	6	b	c
+6	6	c	0
+6	6	d	0
+6	7	a	aa
+7	1	c	0
+7	6	b	ab
+7	7	a	0
+7	7	d	dd
+8	3	c	0
+8	5	a	a
+8	8	b	bd
+8	8	d	bd
+9	3	c	ac
+9	7	a	aa
+9	8	b	0
+9	9	d	0
+0
+1
+2
+3
+4
+5
+8
+9
